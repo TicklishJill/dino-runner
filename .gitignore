@@ -1,0 +1,9 @@
+# Environment (contains secrets / config)
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
